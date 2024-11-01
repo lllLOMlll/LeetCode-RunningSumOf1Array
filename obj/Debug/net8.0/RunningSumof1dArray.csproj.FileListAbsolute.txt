@@ -1,0 +1,14 @@
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\bin\Debug\net8.0\RunningSumof1dArray.exe
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\bin\Debug\net8.0\RunningSumof1dArray.deps.json
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\bin\Debug\net8.0\RunningSumof1dArray.runtimeconfig.json
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\bin\Debug\net8.0\RunningSumof1dArray.dll
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\bin\Debug\net8.0\RunningSumof1dArray.pdb
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.dll
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\refint\RunningSumof1dArray.dll
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.pdb
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\RunningSumof1dArray.genruntimeconfig.cache
+C:\Users\louis\OneDrive\Documents\Code\LeetCode\Easy\RunningSumof1dArray\obj\Debug\net8.0\ref\RunningSumof1dArray.dll
